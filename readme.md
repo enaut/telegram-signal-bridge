@@ -3,7 +3,7 @@
 
 Telegram-signal-bridge is a tool to forward messages between a telegram chat and a signal one.
 
-It uses a telegram bot on one side and relies on [signa-cli](https://github.com/AsamK/signal-cli)'s DBus interface on the other.
+It uses a telegram bot on one side and relies on [signal-cli](https://github.com/AsamK/signal-cli)'s DBus interface on the other.
 
 ### Installation and step-by-step configuration
 
